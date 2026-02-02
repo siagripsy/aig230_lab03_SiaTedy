@@ -1,0 +1,26 @@
+text,label
+VPN keeps disconnecting every 10 minutes on Windows 11 after latest update,network
+Password reset link is expired and user cannot login to the portal,auth
+"Email delivery delayed, outbound messages queued for hours",messaging
+"Cannot install printer driver, installer fails with error code 1603",device
+"MFA prompt never arrives on mobile app, user stuck at login",auth
+"WiFi signal drops in meeting rooms, access point reboot helps temporarily",network
+"Outlook search not returning results, index seems corrupted",messaging
+"Laptop battery drains fast after BIOS update, power settings unchanged",device
+"Portal shows 500 error when submitting form, happened after deployment",app
+"API requests timing out, latency spike observed in last hour",app
+"User cannot access shared drive, permission denied though in correct group",auth
+"Teams calls have choppy audio, jitter high on corporate network",network
+Push notifications not working on Android for the app,app
+"Mailbox is full and cannot receive emails, auto-archive not running",messaging
+"Bluetooth mouse not pairing after restart, device shows as unknown",device
+"User account locked after too many failed login attempts, cannot unlock via self-service",auth
+"DNS resolution failing intermittently, websites not loading for multiple users",network
+"Mobile app crashes on launch after latest update, shows blank screen then closes",app
+"Cannot connect to VPN, authentication fails with invalid credentials though password works elsewhere",auth
+"Email attachments not downloading in Outlook, stuck on downloading for large files",messaging
+"WiFi connected but no internet access, renew IP fixes temporarily",network
+"Printer prints gibberish characters, correct driver installed but issue persists",device
+"API returns 502 Bad Gateway under load, started after recent config change",app
+"Teams desktop app not opening, hangs on loading screen after Windows update",app
+"Mailbox search very slow, indexing status shows incomplete for several hours",messaging

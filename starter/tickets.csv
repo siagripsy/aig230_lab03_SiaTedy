@@ -1,0 +1,121 @@
+text,label
+VPN disconnects after update on Windows reported by multiple users in office 1,network
+WiFi signal drops in conference room reported by multiple users in office 2,network
+Network latency spikes during peak hours reported by multiple users in office 3,network
+DNS not resolving internal domains reported by multiple users in office 4,network
+Ethernet connection keeps resetting reported by multiple users in office 5,network
+Packet loss detected on gateway router reported by multiple users in office 1,network
+Corporate WiFi authentication failing reported by multiple users in office 2,network
+Remote desktop slow over network reported by multiple users in office 3,network
+Firewall blocking outbound traffic reported by multiple users in office 4,network
+Proxy server unreachable reported by multiple users in office 5,network
+VPN disconnects after update on Windows reported by multiple users in office 1,network
+WiFi signal drops in conference room reported by multiple users in office 2,network
+Network latency spikes during peak hours reported by multiple users in office 3,network
+DNS not resolving internal domains reported by multiple users in office 4,network
+Ethernet connection keeps resetting reported by multiple users in office 5,network
+Packet loss detected on gateway router reported by multiple users in office 1,network
+Corporate WiFi authentication failing reported by multiple users in office 2,network
+Remote desktop slow over network reported by multiple users in office 3,network
+Firewall blocking outbound traffic reported by multiple users in office 4,network
+Proxy server unreachable reported by multiple users in office 5,network
+VPN disconnects after update on Windows reported by multiple users in office 1,network
+WiFi signal drops in conference room reported by multiple users in office 2,network
+Network latency spikes during peak hours reported by multiple users in office 3,network
+DNS not resolving internal domains reported by multiple users in office 4,network
+Password reset link expired reported by multiple users in office 1,auth
+Account locked after failed logins reported by multiple users in office 2,auth
+MFA code not received reported by multiple users in office 3,auth
+User cannot authenticate to portal reported by multiple users in office 4,auth
+SSO login redirects endlessly reported by multiple users in office 5,auth
+Authentication token invalid reported by multiple users in office 1,auth
+LDAP credentials rejected reported by multiple users in office 2,auth
+User removed from security group reported by multiple users in office 3,auth
+Two factor app not syncing reported by multiple users in office 4,auth
+Login page returns error reported by multiple users in office 5,auth
+Password reset link expired reported by multiple users in office 1,auth
+Account locked after failed logins reported by multiple users in office 2,auth
+MFA code not received reported by multiple users in office 3,auth
+User cannot authenticate to portal reported by multiple users in office 4,auth
+SSO login redirects endlessly reported by multiple users in office 5,auth
+Authentication token invalid reported by multiple users in office 1,auth
+LDAP credentials rejected reported by multiple users in office 2,auth
+User removed from security group reported by multiple users in office 3,auth
+Two factor app not syncing reported by multiple users in office 4,auth
+Login page returns error reported by multiple users in office 5,auth
+Password reset link expired reported by multiple users in office 1,auth
+Account locked after failed logins reported by multiple users in office 2,auth
+MFA code not received reported by multiple users in office 3,auth
+User cannot authenticate to portal reported by multiple users in office 4,auth
+Mobile app crashes after update reported by multiple users in office 1,app
+Portal shows 500 error on submit reported by multiple users in office 2,app
+API returns timeout reported by multiple users in office 3,app
+Web app blank screen on load reported by multiple users in office 4,app
+Service fails after deployment reported by multiple users in office 5,app
+Application memory leak detected reported by multiple users in office 1,app
+Backend service restarting repeatedly reported by multiple users in office 2,app
+App freezes during checkout reported by multiple users in office 3,app
+REST endpoint returning 502 reported by multiple users in office 4,app
+UI not rendering properly reported by multiple users in office 5,app
+Mobile app crashes after update reported by multiple users in office 1,app
+Portal shows 500 error on submit reported by multiple users in office 2,app
+API returns timeout reported by multiple users in office 3,app
+Web app blank screen on load reported by multiple users in office 4,app
+Service fails after deployment reported by multiple users in office 5,app
+Application memory leak detected reported by multiple users in office 1,app
+Backend service restarting repeatedly reported by multiple users in office 2,app
+App freezes during checkout reported by multiple users in office 3,app
+REST endpoint returning 502 reported by multiple users in office 4,app
+UI not rendering properly reported by multiple users in office 5,app
+Mobile app crashes after update reported by multiple users in office 1,app
+Portal shows 500 error on submit reported by multiple users in office 2,app
+API returns timeout reported by multiple users in office 3,app
+Web app blank screen on load reported by multiple users in office 4,app
+Printer driver installation fails reported by multiple users in office 1,device
+Laptop battery drains quickly reported by multiple users in office 2,device
+Bluetooth mouse not pairing reported by multiple users in office 3,device
+Monitor flickers intermittently reported by multiple users in office 4,device
+Keyboard not detected reported by multiple users in office 5,device
+USB device disconnects randomly reported by multiple users in office 1,device
+Docking station not charging reported by multiple users in office 2,device
+Camera driver missing reported by multiple users in office 3,device
+Microphone not working reported by multiple users in office 4,device
+Touchpad unresponsive reported by multiple users in office 5,device
+Printer driver installation fails reported by multiple users in office 1,device
+Laptop battery drains quickly reported by multiple users in office 2,device
+Bluetooth mouse not pairing reported by multiple users in office 3,device
+Monitor flickers intermittently reported by multiple users in office 4,device
+Keyboard not detected reported by multiple users in office 5,device
+USB device disconnects randomly reported by multiple users in office 1,device
+Docking station not charging reported by multiple users in office 2,device
+Camera driver missing reported by multiple users in office 3,device
+Microphone not working reported by multiple users in office 4,device
+Touchpad unresponsive reported by multiple users in office 5,device
+Printer driver installation fails reported by multiple users in office 1,device
+Laptop battery drains quickly reported by multiple users in office 2,device
+Bluetooth mouse not pairing reported by multiple users in office 3,device
+Monitor flickers intermittently reported by multiple users in office 4,device
+Outlook search not returning results reported by multiple users in office 1,messaging
+Mailbox full cannot receive email reported by multiple users in office 2,messaging
+Emails stuck in outbox reported by multiple users in office 3,messaging
+Teams messages delayed reported by multiple users in office 4,messaging
+Calendar invites not syncing reported by multiple users in office 5,messaging
+Spam filter blocking internal mail reported by multiple users in office 1,messaging
+Email attachments not downloading reported by multiple users in office 2,messaging
+Distribution list not expanding reported by multiple users in office 3,messaging
+IMAP connection drops reported by multiple users in office 4,messaging
+Auto archive not running reported by multiple users in office 5,messaging
+Outlook search not returning results reported by multiple users in office 1,messaging
+Mailbox full cannot receive email reported by multiple users in office 2,messaging
+Emails stuck in outbox reported by multiple users in office 3,messaging
+Teams messages delayed reported by multiple users in office 4,messaging
+Calendar invites not syncing reported by multiple users in office 5,messaging
+Spam filter blocking internal mail reported by multiple users in office 1,messaging
+Email attachments not downloading reported by multiple users in office 2,messaging
+Distribution list not expanding reported by multiple users in office 3,messaging
+IMAP connection drops reported by multiple users in office 4,messaging
+Auto archive not running reported by multiple users in office 5,messaging
+Outlook search not returning results reported by multiple users in office 1,messaging
+Mailbox full cannot receive email reported by multiple users in office 2,messaging
+Emails stuck in outbox reported by multiple users in office 3,messaging
+Teams messages delayed reported by multiple users in office 4,messaging
